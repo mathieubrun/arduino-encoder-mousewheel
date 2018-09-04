@@ -7,6 +7,6 @@
 
 ## Bill of materials
 
-- small aluminium enclosure (min size 80*45*20)
+- small aluminium enclosure
 - encoder 
-- 2 pushbuttons (max size xx*xx)
+- 2 pushbuttons
