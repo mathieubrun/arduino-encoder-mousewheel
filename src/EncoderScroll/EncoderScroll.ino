@@ -40,7 +40,7 @@ bool pressed_b = false;
 bool pressed_e = false;
 
 void loop() {
-  unsigned char encoder_direction = encoder_wheel.process();
+  unsigned char encoder_direction = encoder_direction = encoder_wheel.process();
 
   if (encoder_direction == DIR_CW) {
     Serial.println("CW");
