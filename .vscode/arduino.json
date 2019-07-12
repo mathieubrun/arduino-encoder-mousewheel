@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:micro",
+    "sketch": "src/EncoderScroll/EncoderScroll.ino",
+    "port": "/dev/cu.usbmodemHIDFG1"
+}
