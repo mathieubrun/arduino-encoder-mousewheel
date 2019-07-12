@@ -1,0 +1,6 @@
+[submodule "src/EncoderScroll/src/Debounce"]
+	path = src/EncoderScroll/src/Debounce
+	url = git://github.com/mathieubrun/arduino-library-debounce.git
+[submodule "src/EncoderScroll/src/Rotary"]
+	path = src/EncoderScroll/src/Rotary
+	url = git://github.com/mathieubrun/arduino-library-rotary-encoder.git
